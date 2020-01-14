@@ -12,7 +12,7 @@ This notification bot requires a mysql database to avoid pushing pushed activiti
 
 ## Getting started
 
-* REQUIRES** Python3** environment & **MYSQL server**
+* REQUIRES **Python3** environment & **MYSQL server**
 * Clone the repo &
 ```pip install -r requirements.txt```
 * [Prepare your own TelegramBot&channel](https://medium.com/@zaoldyeck/手把手教你怎麼打造-telegram-bot-a7b539c3402a), Then get the bot id and [channel id](https://github.com/GabrielRF/telegram-id#web-channel-id).
@@ -32,5 +32,5 @@ python3 main.py
 An instance is running at https://t.me/SecondClass_BUPT in an unstable machine.\(Only push activities available for students in School of Computer Science\)  
 
 
-
+![](/Image.png)
 
