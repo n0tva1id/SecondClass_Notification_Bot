@@ -14,8 +14,8 @@ This notification bot requires a mysql database to avoid pushing pushed activiti
 
 * REQUIRES** Python3** environment & **MYSQL server**
 * Clone the repo &
-```
-pip install -r requirements.txt```* [Prepare your own TelegramBot&channel](https://medium.com/@zaoldyeck/手把手教你怎麼打造-telegram-bot-a7b539c3402a),  Then get the bot id and [channel id](https://github.com/GabrielRF/telegram-id#web-channel-id).
+```pip install -r requirements.txt```
+* [Prepare your own TelegramBot&channel](https://medium.com/@zaoldyeck/手把手教你怎麼打造-telegram-bot-a7b539c3402a), Then get the bot id and [channel id](https://github.com/GabrielRF/telegram-id#web-channel-id).
 * Create a database in your MYSQL server
 * Modify mysql\_config.py with your own mysql server configurations.
 * Modify main.py with your own BUPT student information & Telegram bot information.
@@ -33,5 +33,4 @@ An instance is running at https://t.me/SecondClass\_BUPT in an unstable machine.
 
 
 
-![](SecondClass_Notification_Bot/Image.png)
 
