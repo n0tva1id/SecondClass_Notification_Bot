@@ -29,7 +29,7 @@ python3 main.py
 
 
 
-An instance is running at https://t.me/SecondClass\_BUPT in an unstable machine.\(Only push activities available for students in School of Computer Science\)  
+An instance is running at https://t.me/SecondClass_BUPT in an unstable machine.\(Only push activities available for students in School of Computer Science\)  
 
 
 
