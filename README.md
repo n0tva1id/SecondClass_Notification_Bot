@@ -1,6 +1,6 @@
 # SecondClass\_Notification\_Bot
 
-A bot in Telegram to forward & push BUPT SecondClass content through notifications.
+A bot in Telegram that forwards & pushes BUPT SecondClass content.  
 
 
 
